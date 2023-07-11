@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibraly.cpp
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.cpp(15,6): warning C4273: 'fibonacci_init': dll 연결이 일치하지 않습니다.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.h(22,33): message : 'fibonacci_init'의 이전 정의를 참조하십시오.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.cpp(26,6): warning C4273: 'fibonacci_next': dll 연결이 일치하지 않습니다.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.h(28,33): message : 'fibonacci_next'의 이전 정의를 참조하십시오.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.cpp(47,20): warning C4273: 'fibonacci_current': dll 연결이 일치하지 않습니다.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.h(31,47): message : 'fibonacci_current'의 이전 정의를 참조하십시오.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.cpp(53,10): warning C4273: 'fibonacci_index': dll 연결이 일치하지 않습니다.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.h(34,37): message : 'fibonacci_index'의 이전 정의를 참조하십시오.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.cpp(57,6): warning C4273: 'AlwaysTrue': dll 연결이 일치하지 않습니다.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.h(36,33): message : 'AlwaysTrue'의 이전 정의를 참조하십시오.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.cpp(61,7): warning C4273: 'GetPI': dll 연결이 일치하지 않습니다.
+C:\Users\PC\Desktop\a\Alpaca\MathLibraly\MathLibraly.h(37,34): message : 'GetPI'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+     C:\Users\PC\Desktop\a\Alpaca\x64\Debug\MathLibraly.lib 라이브러리 및 C:\Users\PC\Desktop\a\Alpaca\x64\Debug\MathLibraly.exp 개체를 생성하고 있습니다.
+  MathLibraly.vcxproj -> C:\Users\PC\Desktop\a\Alpaca\x64\Debug\MathLibraly.dll

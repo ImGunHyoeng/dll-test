@@ -1,0 +1,21 @@
+﻿  main.cpp
+  main.vcxproj -> C:\Users\PC\Desktop\a\Alpaca\x64\Debug\main.exe
+  Microsoft (R) Test Execution Command Line Tool Version 17.6.2 (x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  테스트 실행을 시작하는 중입니다. 잠시 기다려 주세요...
+  지정된 패턴과 일치한 총 테스트 파일 수는 1개입니다.
+    통과 TestMethod1 [< 1 ms]
+    실패 TestTrigonometric [66 ms]
+    오류 메시지:
+     Assert failed. Expected:<3.14159> Actual:<0>
+    스택 추적:
+    	at MathLibralyTest::MathLibralyTest::TestTrigonometric() in C:\Users\PC\Desktop\a\Alpaca\MathLibralyTest\MathLibralyTest.cpp:line 19
+  
+  테스트 실행이 실패했습니다.
+  총 테스트 수: 2
+       통과: 1
+       실패: 1
+   총 시간: 0.2679 초
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(160,5): error MSB3073: ""C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe" C:\Users\PC\Desktop\a\Alpaca\x64\Debug\MathLibralyTest.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(160,5): error MSB3073: :VCEnd" 명령이 종료되었습니다(코드: 1).
